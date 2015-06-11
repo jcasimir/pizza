@@ -2,9 +2,9 @@
 
 Where is the best pizza in a given city? This is a community project. Pull requests accepted and I will totally make you a collaborator—if you ask and you're not some kind of deep-dish-eating monster.
 
-## Hamilton, NJ
+## Washington, DC
 
-* [DeLorenzo's Pizza](https://www.facebook.com/delorenzos?fref=ts)
+* [Pete's New Haven Pizza](http://petesapizza.com/)
 
 ## Hoboken, NJ
 
@@ -13,7 +13,6 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## Brooklyn, NY
 
 * [Luigi's Pizza](http://www.yelp.com/biz/luigi-pizzeria-brooklyn)
-* [Paulie Gee's](http://pauliegee.com/)
 * [Roberta's](http://www.robertaspizza.com/)
 
 ## Woodbridge, NJ
@@ -36,7 +35,6 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 ## New York, NY
 
 * [Adrienne's Pizza Bar](http://www.adriennespizzabarnyc.com/)
-* [John's of Bleeker St](http://www.johnsbrickovenpizza.com/)
 
 ## Staten Island, NY
 
@@ -61,3 +59,7 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 
 ## Buffalo, NY
 * [Pizza By Molino's](http://www.pizzabymolinos.com/)
+
+## Leuven, Belgium
+* [La Vecchia Napoli](http://www.lavecchianapoli.be)
+* [Pronto](https://plus.google.com/100388940239717823303/about?gl=be&hl=en)
